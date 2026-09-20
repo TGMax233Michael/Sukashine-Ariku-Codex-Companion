@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "version": "v14",
+  "run_dir": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14",
+  "spritesheet": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/final/spritesheet-extended.webp",
+  "validation": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/final/validation-extended.json",
+  "installed_validation": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/final/validation-installed-v14.json",
+  "chroma_despill": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/look-directions.png",
+  "direction_semantics": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/direction-blind-validation.json",
+  "continuity": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/look-continuity.json",
+  "review": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/review.json",
+  "final_visual_qa": "/Users/tgmax233/Documents/Codex/2026-09-19/hatch-pet-users-tgmax233-codex-skills/work/sukashine-ariku-repair-v14/qa/final-visual-qa-v14.txt",
+  "package": "/Users/tgmax233/.codex/pets/sukashine-ariku",
+  "installed_spritesheet": "/Users/tgmax233/.codex/pets/sukashine-ariku/spritesheet-v14.webp",
+  "rollback_spritesheet": "/Users/tgmax233/.codex/pets/sukashine-ariku/spritesheet-v13.webp"
+}
